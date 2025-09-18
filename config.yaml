@@ -1,0 +1,13 @@
+user: dlockridge
+email_domain: usf.edu
+smiles: "CCOC(=O)C=C"
+job_name: ethylacrylate
+time: "21-00:00:00"
+cores: 20
+partition: chbme_2018
+queue: chbme18
+mem_per_cpu: 5000
+functional: B3LYP
+basis_set: "6-31G*"
+charge: 0
+multiplicity: 1
